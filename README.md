@@ -1,2 +1,1 @@
-# Tableau-Projects
-This Repository consists of data analysis projects using Tableau.
+Here's the link to my Tableau profile: 
