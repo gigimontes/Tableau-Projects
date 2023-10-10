@@ -9,7 +9,7 @@
 ![Dashboard 1](https://github.com/gigimontes/Tableau-Projects/assets/143570053/fba9e4a3-a577-4a05-97d3-66115f15a802)
 
 #### Data Findings:
-  1.
+  1. 
 
 
 
