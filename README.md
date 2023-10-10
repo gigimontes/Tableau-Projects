@@ -1,10 +1,13 @@
 # If interested, You can click this link to go to my Tableu profile and to look at the dashboards more in detail: https://public.tableau.com/app/profile/gissel.viramontes/vizzes
 
 # Project #1: AirBNB sales
-  In this project I looked into AirBNB sales inforamtion from year 2016. 
+  In this project I looked at data about AirBNB sales in Seattle, washignton from year 2016. Data contains information about Seattle Zipcodes, number of rooms, Price, etc. 
 
 #### Analysis Questions:
-  1.
+  1. What Room quantity is being rented out more?
+  2. What is the average price to rent an Airbnb by Bedroom amount?
+  3. What's the average price by Zipcode?
+  4. What time of the year do people rent AirBNB the most?
 #### Dashboard: 
 ![Dashboard 1](https://github.com/gigimontes/Tableau-Projects/assets/143570053/fba9e4a3-a577-4a05-97d3-66115f15a802)
 
