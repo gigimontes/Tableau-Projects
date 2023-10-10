@@ -15,9 +15,5 @@
   1. The more rooms an AirBNB had, the lower amount of rentals. 1 bedroom AirBnb were more likely to have more rentals with 1,811 rentals in 2016.
   2. The less rooms an AirBNB has, the more cheaper it is to book the AirBNB.
   3. The more closer that the Zupcode is to Downtown Seattle, the more expensive the AirBNB.
-  4. There's an upward trend of bookings from April 3rd to about the beginning July. 
-
-
-
-
+  4. There's an upward trend of bookings from April 3rd to about the beginning July and a 2nd upward trend from November to the beginning of Janurary 2017.
 
