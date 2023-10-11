@@ -3,7 +3,7 @@
 # Project #1: AirBNB sales
   In this project I looked at data about AirBNB sales in Seattle, washignton from year 2016. Data contains information about Seattle Zipcodes, number of rooms, Price, etc. 
 
-#### Analysis Questions:
+#### Questions:
   1. What Room quantity is being rented out more?
   2. What is the average price to rent an Airbnb by Bedroom amount?
   3. What's the average price by Zipcode?
