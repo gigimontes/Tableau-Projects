@@ -16,7 +16,7 @@
   1. The more rooms an Airbnb had, the less bookings. One bedroom Airbnb's were more likely to have more rentals, with 1,811 rentals in 2016. A 6 bedroom Airbnb had the least rentals, with five rentals.
   2. The smaller the bedroom amount an Airbnb had, the cheaper it was to rent. 
   3. The closer the zipcode zone is to central Seattle, the more expensive the AirBNB.
-  4. There's an upward trend of Airbnb rentals from April 3rd  to about the beginning July 2016 and a 2nd upward trend from November to the start of Janurary 2017.
+  4. There's an upward trend of Airbnb rentals from April 3rd  to about the beginning July 2016 and a 2nd upward trend from November to the start of January 2017.
 
 # Project #2: Pokemon Unite Infographics
 
@@ -58,8 +58,8 @@
    - If the player prefers a ranged fighting style they should try out an Attacker, Defender, or supporter Roles.
    - If the player prefers a Melee fighting style then they should consider trying All-rounder, defender, speedster, and supporter Roles. 
    - If the New player is interested in playing a Speedster role Pokemon they should consider that most Speedster’s pokemon are categorized as Expert difficulty.
-   - If players rely on the Attributes Statistics then I would check out the Attribute Average By Role section on the data visualization, it contains the average of all 
-     attributes that each Role has.
+   - If the player prefers to make thier selection of what role they want to play by Attributes Statistics then I would at the Attribute Average By Role section on 
+     the data visualization.  
 
 
 
