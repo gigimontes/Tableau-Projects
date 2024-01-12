@@ -1,22 +1,53 @@
 # Click this link to go to my Tableu profile and look at the dashboards more in detail: https://public.tableau.com/app/profile/gissel.viramontes/vizzes
 
 # Project #1: AirBNB sales
-   In this project I analyzed data about Airbnb sales from year 2016, specifally from Seattle, Washington. The data consists of information about the locations zipcodes, the number of rooms the Airbnb has, The price it costs to book it, etc. Below are the questions I looked for in my analysis. 
 
-#### Questions:
-  1. What room quantity booked the most? 
+####**Project Overview**
+ I analyzed data regarding Seattle's Washington Airbnb sales from the year 2016. 
+
+####**Data Source**
+I downloaded the data named ___ provided by _____ on kaggle. To access the data on Kaggle click here.
+
+####**Tools Used in Project**
+
+**Excel**
+   - Download Excel workbook here
+
+**Tableau**
+   - To Access Dashboard report here.
+
+####**Data Cleaning/Preparation**
+
+####**Exploratory Data Analysis**
+
+The questions that I looked into for this project are:
+
+ 1. What room quantity was booked the most? 
   2. What is the average price to rent an Airbnb by Bedroom count?
-  3. What's the average price to rent an Airbnb by zipcode?
+  3. What's the average price to rent an Airbnb by zip code?
   4. What time of the year do people rent Airbnb's the most?
 
-#### Dashboard: 
+####**Data Analysis** 
+
+####**Results** 
 ![Dashboard 1](https://github.com/gigimontes/Tableau-Projects/assets/143570053/fba9e4a3-a577-4a05-97d3-66115f15a802)
 
-#### Data Findings:
-  1. The more rooms an Airbnb had, the less bookings. One bedroom Airbnb's were more likely to have more rentals, with 1,811 rentals in 2016. A 6 bedroom Airbnb had the least rentals, with five rentals.
-  2. The smaller the bedroom amount an Airbnb had, the cheaper it was to rent. 
-  3. The closer the zipcode zone is to central Seattle, the more expensive the AirBNB.
-  4. There's an upward trend of Airbnb rentals from April 3rd  to about the beginning July 2016 and a 2nd upward trend from November to the start of January 2017.
+After analyzing the data I found: 
+
+- The more rooms an Airbnb had, the less bookings. One bedroom Airbnb's were more likely to have more rentals, with 1,811 rentals in 2016. A 6 bedroom Airbnb had the least rentals, with five rentals.
+- The smaller the bedroom count an Airbnb had, the cheaper it was to rent.
+- The closer the zipcode zone is to central Seattle, the more expensive the AirBNB.
+- There's an upward trend of Airbnb rentals from April 3rd  to about the beginning of July 2016 and a 2nd upward trend from November to the start of January 2017.
+
+
+####**Recommendations**
+For someone who’s interested in being a seller and renting an Airbnb in the downtown Seattle Washington area in 2017 I would recommend:
+
+- Sell a 1 bedroom AirBnb considering that 1 bedroom Airbnb had the most rentals in 2016. 
+- March would be a good time to start renting an Airbnb since there’s an upward trend from April-July and from November-January, which is the time of the year that most    
+  people are traveling due summer vacation or the holiday season.
+- I would invest into renting out an Airbnb closer to downtown Seattle since they can charge more for a room and a higher traffic of people. 
+
 
 # Project #2: Pokemon Unite Infographics
 
