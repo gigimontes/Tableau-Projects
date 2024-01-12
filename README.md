@@ -2,13 +2,13 @@
 
 # Project #1: AirBNB sales
 
-####**Project Overview**
+####Project Overview
  I analyzed data regarding Seattle's Washington Airbnb sales from the year 2016. 
 
 ####**Data Source**
 I downloaded the data named ___ provided by _____ on kaggle. To access the data on Kaggle click here.
 
-####**Tools Used in Project**
+####Tools Used in Project
 
 **Excel**
    - Download Excel workbook here
@@ -16,9 +16,9 @@ I downloaded the data named ___ provided by _____ on kaggle. To access the data 
 **Tableau**
    - To Access Dashboard report here.
 
-####**Data Cleaning/Preparation**
+####Data Cleaning/Preparation
 
-####**Exploratory Data Analysis**
+####Exploratory Data Analysis
 
 The questions that I looked into for this project are:
 
@@ -27,9 +27,9 @@ The questions that I looked into for this project are:
   3. What's the average price to rent an Airbnb by zip code?
   4. What time of the year do people rent Airbnb's the most?
 
-####**Data Analysis** 
+####Data Analysis
 
-####**Results** 
+####Results
 ![Dashboard 1](https://github.com/gigimontes/Tableau-Projects/assets/143570053/fba9e4a3-a577-4a05-97d3-66115f15a802)
 
 After analyzing the data I found: 
@@ -40,7 +40,7 @@ After analyzing the data I found:
 - There's an upward trend of Airbnb rentals from April 3rd  to about the beginning of July 2016 and a 2nd upward trend from November to the start of January 2017.
 
 
-####**Recommendations**
+####Recommendations
 For someone who’s interested in being a seller and renting an Airbnb in the downtown Seattle Washington area in 2017 I would recommend:
 
 - Sell a 1 bedroom AirBnb considering that 1 bedroom Airbnb had the most rentals in 2016. 
