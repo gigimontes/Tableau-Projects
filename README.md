@@ -82,8 +82,8 @@ For someone who’s interested in being a seller and renting an Airbnb in the do
 ## Data Analysis
 
 ## Results
-![image](![Pokemon Unite Tableau Dashboard ](https://github.com/gigimontes/Tableau-Projects/assets/143570053/db0223fe-cd7e-4ab4-8076-afd40f2ab262)
-)
+![Pokemon Unite Tableau Dashboard ](https://github.com/gigimontes/Tableau-Projects/assets/143570053/db0223fe-cd7e-4ab4-8076-afd40f2ab262)
+
 
 ## Recommendations: 
    - Intermediate usage difficulty category has the most pokemon therefore as players get better at the game they will have a larger realm of pokemon choices to play and 
