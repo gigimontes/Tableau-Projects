@@ -1,5 +1,3 @@
-# Click this link to go to my Tableu profile and look at the dashboards more in detail: https://public.tableau.com/app/profile/gissel.viramontes/vizzes
-
 # Project #1: AirBNB sales 🏘️📈
 
 ## Project Overview
@@ -14,7 +12,7 @@ I downloaded the data named ___ provided by _____ on kaggle. To access the data 
    - Download Excel workbook here
 
 **Tableau**
-   - To Access Dashboard report here.
+   - To Access Dashboard report Click [here](https://public.tableau.com/app/profile/gissel.viramontes/viz/AirBNBFullProject2016data/Dashboard1)
 
 ## Data Cleaning/Preparation
 
