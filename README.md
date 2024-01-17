@@ -85,7 +85,7 @@ For someone who’s interested in being a seller and renting an Airbnb in the do
 ## Results
 ![Pokemon Unite Tableau Dashboard ](https://github.com/gigimontes/Tableau-Projects/assets/143570053/db0223fe-cd7e-4ab4-8076-afd40f2ab262)
 
- - Their are 62 pokemon choices that players can choose from.
+ - Thier are 62 pokemon choices that players can choose from.
  - There are 20 novice Pokemon, 28 intermediate Pokemon, and 14 expert Pokemon
  - Out of all the roles, Attacker has the most Pokemon choices for Novice Difficulty, All-Rounder has the most Pokemon choices for Intermediate, and Speedster has the most 
    Pokemon choices for Expert. 
