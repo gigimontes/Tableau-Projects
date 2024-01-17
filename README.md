@@ -77,13 +77,16 @@ For someone who’s interested in being a seller and renting an Airbnb in the do
    - How many pokemon are in each difficulty ? 
    - How many pokemon are in each difficulty based on the Pokemon role? 
    - What are the average attributes based on the Pokemon’s role?
-   - What type of fighting style are there in the game and how many per role?
+   - What type of fighting style are there in the game and how many per 
+     role?
 
 ## Data Analysis
 
 ## Results
 ![Pokemon Unite Tableau Dashboard ](https://github.com/gigimontes/Tableau-Projects/assets/143570053/db0223fe-cd7e-4ab4-8076-afd40f2ab262)
 
+ - Their are 62 pokemon choices that players can choose from.
+ - 
 
 ## Recommendations: 
    - Intermediate usage difficulty category has the most pokemon therefore as players get better at the game they will have a larger realm of pokemon choices to play and 
