@@ -53,7 +53,7 @@ For someone who’s interested in being a seller and renting an Airbnb in the do
    I analyzed data from the Video Game Pokemon Unite for those who are new players or interested in playing Pokemon Unite but are unsure what it’s about and what to expect. 
 
 ## Data Source
-   I retrieved the data source using the  “Pokemon Unite Dataset” provided by Shashanka Shekhar on Kaggle. You can access the data by clicking here: https://www.kaggle.com/datasets/vishushekhar/pokemonunitedataset
+   I retrieved the data source using the  “Pokemon Unite Dataset” provided by Shashanka Shekhar on Kaggle. You can access the data by clicking here: [Pokemon Unite Dataset](https://www.kaggle.com/datasets/vishushekhar/pokemonunitedataset)
 
 ##  Tools Used for Project
    - Excel
