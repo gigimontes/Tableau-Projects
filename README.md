@@ -60,7 +60,7 @@ For someone who’s interested in being a seller and renting an Airbnb in the do
       - Download Excel file here
 
    - Tableau
-      - Link to Report here
+      - To access the tableau dashboard click [here](https://public.tableau.com/app/profile/gissel.viramontes/viz/PokemonUnite/Dashboard1)
 
 ##  Data Cleaning/preparation
    - Looked for Duplicates
