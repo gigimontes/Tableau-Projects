@@ -86,7 +86,11 @@ For someone who’s interested in being a seller and renting an Airbnb in the do
 ![Pokemon Unite Tableau Dashboard ](https://github.com/gigimontes/Tableau-Projects/assets/143570053/db0223fe-cd7e-4ab4-8076-afd40f2ab262)
 
  - Their are 62 pokemon choices that players can choose from.
- - 
+ - There are 20 novice Pokemon, 28 intermediate Pokemon, and 14 expert Pokemon
+ - Out of all the roles, Attacker has the most Pokemon choices for Novice Difficulty, All-Rounder has the most Pokemon choices for Intermediate, and Speedster has the most 
+   Pokemon choices for Expert. 
+ - The most Pokemon for ranged fighting type role is Attacker (20 choices) meanwhile for Melee fighting Type is All-Rounder (16 choices). 
+ - Highest Attribute Average by role is Defender for Endurance (3.750) , Speedster for Mobility (3.813) , Attacker for Offense (4.075), Speedster for Scoring (2.875), Support for Supporter (4.125).
 
 ## Recommendations: 
    - Intermediate usage difficulty category has the most pokemon therefore as players get better at the game they will have a larger realm of pokemon choices to play and 
