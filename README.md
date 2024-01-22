@@ -15,7 +15,12 @@ I downloaded the data named ___ provided by _____ on kaggle. To access the data 
    - To Access Dashboard report Click [here](https://public.tableau.com/app/profile/gissel.viramontes/viz/AirBNBFullProject2016data/Dashboard1)
 
 ## Data Cleaning/Preparation
-
+Although the data used in this project was clean, I still made sure that the data didn't have the following:
+ - Duplicates
+ - Empty Spaces
+ - Wrong Data type
+ - Missing Data
+   
 ## Exploratory Data Analysis
 
 The questions that I looked into for this project are:
@@ -24,8 +29,6 @@ The questions that I looked into for this project are:
   2. What is the average price to rent an Airbnb by Bedroom count?
   3. What's the average price to rent an Airbnb by zip code?
   4. What time of the year do people rent Airbnb's the most?
-
-## Data Analysis
 
 ## Results
 ![Dashboard 1](https://github.com/gigimontes/Tableau-Projects/assets/143570053/fba9e4a3-a577-4a05-97d3-66115f15a802)
@@ -63,9 +66,11 @@ For someone who’s interested in being a seller and renting an Airbnb in the do
       - To access the tableau dashboard click [here](https://public.tableau.com/app/profile/gissel.viramontes/viz/PokemonUnite/Dashboard1)
 
 ##  Data Cleaning/preparation
-   - Looked for Duplicates
-   - Looked for Missing data
-   - Looked for Empty spaces
+Although the data used in this project was clean, I still made sure that the data didn't have the following:
+ - Duplicates
+ - Empty Spaces
+ - Wrong Data type
+ - Missing Data
 
 ## Exploratory Data Analysis:
    One way I like thinking about what questions I should look into for my personal projects is placing myself in the 'stakeholders' shoes. In this case it would be for someone interested/new player playing Pokemon Unite, so my big question would be “what questions would be helpful to know for someone who wants to start playing? ” That being said, these are the questions I looked for in my analysis:
@@ -77,8 +82,6 @@ For someone who’s interested in being a seller and renting an Airbnb in the do
    - What are the average attributes based on the Pokemon’s role?
    - What type of fighting style are there in the game and how many per 
      role?
-
-## Data Analysis
 
 ## Results
 ![Pokemon Unite Tableau Dashboard ](https://github.com/gigimontes/Tableau-Projects/assets/143570053/db0223fe-cd7e-4ab4-8076-afd40f2ab262)
