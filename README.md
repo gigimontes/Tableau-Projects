@@ -4,7 +4,7 @@
  I analyzed data regarding Seattle's Washington Airbnb sales from the year 2016. 
 
 ## Data Source
-I downloaded the data named ___ provided by _____ on kaggle. To access the data on Kaggle click here.
+I downloaded the data called "Airbnb Listings 2016 Dataset" provided by Alex the Analyst on kaggle. To access the data on Kaggle click here: [Airbnb Listings 2016 Dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset/data)
 
 ## Tools Used in Project
 
@@ -12,7 +12,7 @@ I downloaded the data named ___ provided by _____ on kaggle. To access the data 
    - Download Excel workbook here
 
 **Tableau**
-   - To Access Dashboard report Click [here](https://public.tableau.com/app/profile/gissel.viramontes/viz/AirBNBFullProject2016data/Dashboard1)
+   - To Access Dashboard report Click here: [Tableau Dashboard](https://public.tableau.com/app/profile/gissel.viramontes/viz/AirBNBFullProject2016data/Dashboard1)
 
 ## Data Cleaning/Preparation
 Although the data used in this project was clean, I still made sure that the data didn't have the following:
@@ -63,7 +63,7 @@ For someone who’s interested in being a seller and renting an Airbnb in the do
       - Download Excel file here
 
    - Tableau
-      - To access the tableau dashboard click [here](https://public.tableau.com/app/profile/gissel.viramontes/viz/PokemonUnite/Dashboard1)
+      - To access the tableau dashboard click here: [Tableau Dashboard](https://public.tableau.com/app/profile/gissel.viramontes/viz/PokemonUnite/Dashboard1)
 
 ##  Data Cleaning/preparation
 Although the data used in this project was clean, I still made sure that the data didn't have the following:
