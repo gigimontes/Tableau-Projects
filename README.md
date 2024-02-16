@@ -9,10 +9,10 @@ I downloaded the data called "Airbnb Listings 2016 Dataset" provided by Alex the
 ## Tools Used in Project
 
 **Excel**
-   - Download Excel workbook here
+   - To download Excel Spreadsheet click here: [Airbnb Listings 2016 Dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset/data)
 
 **Tableau**
-   - To Access Dashboard report Click here: [Tableau Dashboard](https://public.tableau.com/app/profile/gissel.viramontes/viz/AirBNBFullProject2016data/Dashboard1)
+   - To Access Dashboard report click here: [Tableau Dashboard](https://public.tableau.com/app/profile/gissel.viramontes/viz/AirBNBFullProject2016data/Dashboard1)
 
 ## Data Cleaning/Preparation
 Although the data used in this project was clean, I still made sure that the data didn't have the following:
@@ -60,7 +60,8 @@ For someone who’s interested in being a seller and renting an Airbnb in the do
 
 ##  Tools Used for Project
    - Excel
-      - Download Excel file here
+      -To download Excel Spreadsheet click here: [Pokemon Unite Dataset](https://www.kaggle.com/datasets/vishushekhar/pokemonunitedataset)
+
 
    - Tableau
       - To access the tableau dashboard click here: [Tableau Dashboard](https://public.tableau.com/app/profile/gissel.viramontes/viz/PokemonUnite/Dashboard1)
