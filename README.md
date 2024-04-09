@@ -74,7 +74,7 @@ Although the data used in this project was clean, I still made sure that the dat
  - Missing Data
 
 ## Exploratory Data Analysis:
-   One way I like thinking about what questions I should look into for my personal projects is placing myself in the 'stakeholders' shoes. In this case it would be for someone interested/new player playing Pokemon Unite, so my big question would be “what questions would be helpful to know for someone who wants to start playing? ” That being said, these are the questions I looked for in my analysis:
+   One way I like thinking about what questions I should look into for my personal projects is placing myself in the 'stakeholders' shoes. In this case it would be for someone interested/new player playing Pokemon Unite, so my big question would be “what questions would be helpful to know for someone who wants to start playing? ” This project was inspired from a conversation that I had with a friend who was interested in playing the game. That being said, these are the questions I looked for in my analysis:
 
    - What’s the game about?
    - How many pokemon are in the game for players to use?
